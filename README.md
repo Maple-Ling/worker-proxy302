@@ -1,0 +1,2 @@
+# worker-proxy302
+这是一个用worker搭建的lucky穿透后302重定向的项目，用于随机穿透后使用固定域名访问转跳到最新的ip:port
